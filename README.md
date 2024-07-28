@@ -28,3 +28,5 @@ nvim을 사용해 보고 싶어서 만든 nvim config 입니다.
 
 ## reference
 [Youtube 코딩문](https://youtu.be/XEOxO2VpTOc?si=_PNcxhECcSFVigLx)
+
+[dashboard.section.header.val](https://github.com/goolord/alpha-nvim/discussions/16#discussioncomment-2153588)
